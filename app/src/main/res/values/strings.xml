@@ -6,4 +6,14 @@
     <string name="ShampooMonster">Shampoo Monster x1</string>
     <string name="PastasDuria">Pastas Duria x2</string>
     <string name="DetergenteLimpiadin">Detergente Limpiadin x1</string>
+    <string name="P2">$2</string>
+    <string name="P10">$10</string>
+    <string name="P18">$18</string>
+    <string name="P134">$13,4</string>
+    <string name="CostoEnvio">CostoEnvio</string>
+    <string name="Cupon">Cupón</string>
+    <string name="Total">Total</string>
+    <string name="P434">$43,4</string>
+    <string name="Pm5">-$5</string>
+    <string name="P484">$48,4</string>
 </resources>

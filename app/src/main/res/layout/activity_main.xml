@@ -71,7 +71,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:padding="2dp"
-                    android:text="TextView"
+                    android:text="@string/P2"
                     android:textAlignment="viewEnd" />
             </TableRow>
         </TableRow>
@@ -102,7 +102,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:padding="2dp"
-                    android:text="TextView"
+                    android:text="@string/P10"
                     android:textAlignment="viewEnd" />
             </TableRow>
         </TableRow>
@@ -132,7 +132,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:padding="2dp"
-                    android:text="TextView"
+                    android:text="@string/P18"
                     android:textAlignment="viewEnd" />
             </TableRow>
 
@@ -163,7 +163,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:padding="2dp"
-                    android:text="TextView"
+                    android:text="@string/P134"
                     android:textAlignment="viewEnd" />
             </TableRow>
         </TableRow>
@@ -200,15 +200,16 @@
                         android:layout_height="match_parent">
 
                         <TableRow
-                            android:layout_width="match_parent"
+                            android:layout_width="70dp"
                             android:layout_height="match_parent">
 
                             <TextView
                                 android:id="@+id/textView11"
-                                android:layout_width="85dp"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView" />
+                                android:text="@string/Subtotal"
+                                android:textColor="#0000FF" />
                         </TableRow>
 
                         <TableRow
@@ -220,7 +221,7 @@
                                 android:layout_width="85dp"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView"
+                                android:text="@string/P434"
                                 android:textAlignment="viewEnd" />
                         </TableRow>
 
@@ -236,10 +237,11 @@
 
                             <TextView
                                 android:id="@+id/textView13"
-                                android:layout_width="85dp"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView" />
+                                android:text="@string/CostoEnvio"
+                                android:textColor="#0000FF" />
                         </TableRow>
 
                         <TableRow
@@ -248,10 +250,10 @@
 
                             <TextView
                                 android:id="@+id/textView14"
-                                android:layout_width="85dp"
+                                android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView"
+                                android:text="@string/P10"
                                 android:textAlignment="viewEnd" />
                         </TableRow>
 
@@ -267,10 +269,11 @@
 
                             <TextView
                                 android:id="@+id/textView15"
-                                android:layout_width="85dp"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView" />
+                                android:text="@string/Cupon"
+                                android:textColor="#0000FF" />
                         </TableRow>
 
                         <TableRow
@@ -282,7 +285,7 @@
                                 android:layout_width="85dp"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView"
+                                android:text="@string/Pm5"
                                 android:textAlignment="viewEnd" />
                         </TableRow>
 
@@ -298,10 +301,11 @@
 
                             <TextView
                                 android:id="@+id/textView17"
-                                android:layout_width="85dp"
+                                android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView" />
+                                android:text="@string/Total"
+                                android:textColor="#0000FF" />
                         </TableRow>
 
                         <TableRow
@@ -313,7 +317,7 @@
                                 android:layout_width="85dp"
                                 android:layout_height="wrap_content"
                                 android:padding="2dp"
-                                android:text="TextView"
+                                android:text="@string/P484"
                                 android:textAlignment="viewEnd" />
                         </TableRow>
 
