@@ -58,6 +58,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/ShampooMonster"
+                    android:padding="2dp"
                     android:textAlignment="viewEnd" />
             </TableRow>
 
@@ -69,6 +70,7 @@
                     android:id="@+id/textView6"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:padding="2dp"
                     android:text="TextView"
                     android:textAlignment="viewEnd" />
             </TableRow>
@@ -87,6 +89,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/PastasDuria"
+                    android:padding="2dp"
                     android:textAlignment="viewEnd" />
             </TableRow>
 
@@ -98,6 +101,7 @@
                     android:id="@+id/textView8"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:padding="2dp"
                     android:text="TextView"
                     android:textAlignment="viewEnd" />
             </TableRow>
@@ -115,6 +119,7 @@
                     android:id="@+id/textView9"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:padding="2dp"
                     android:text="@string/DetergenteLimpiadin" />
             </TableRow>
 
@@ -126,6 +131,7 @@
                     android:id="@+id/textView10"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:padding="2dp"
                     android:text="TextView"
                     android:textAlignment="viewEnd" />
             </TableRow>
@@ -144,6 +150,7 @@
                     android:id="@+id/textView3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:padding="2dp"
                     android:text="@string/JabonDeManos" />
             </TableRow>
 
@@ -155,23 +162,167 @@
                     android:id="@+id/textView4"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:padding="2dp"
                     android:text="TextView"
                     android:textAlignment="viewEnd" />
             </TableRow>
         </TableRow>
 
         <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            color de borde
-            android:background="#0000FF">
-
-            >
+            android:layout_width="727dp"
+            android:layout_height="1dp"
+            android:background="#D3D3D3">
 
             <TextView
-                android:id="@+id/textView11"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
+                android:id="@+id/textView122"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TableLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView11"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView12"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView"
+                                android:textAlignment="viewEnd" />
+                        </TableRow>
+
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView13"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView14"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView"
+                                android:textAlignment="viewEnd" />
+                        </TableRow>
+
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView15"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView16"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView"
+                                android:textAlignment="viewEnd" />
+                        </TableRow>
+
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView17"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView" />
+                        </TableRow>
+
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/textView18"
+                                android:layout_width="85dp"
+                                android:layout_height="wrap_content"
+                                android:padding="2dp"
+                                android:text="TextView"
+                                android:textAlignment="viewEnd" />
+                        </TableRow>
+
+                    </TableRow>
+
+                </TableLayout>
+
+            </TableRow>
+
         </TableRow>
 
     </TableLayout>
